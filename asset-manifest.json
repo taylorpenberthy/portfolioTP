@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolioTP/static/css/main.7f329128.chunk.css",
-    "main.js": "/portfolioTP/static/js/main.b8732b7e.chunk.js",
-    "main.js.map": "/portfolioTP/static/js/main.b8732b7e.chunk.js.map",
-    "runtime-main.js": "/portfolioTP/static/js/runtime-main.c954b4f9.js",
-    "runtime-main.js.map": "/portfolioTP/static/js/runtime-main.c954b4f9.js.map",
-    "static/js/2.0c31c5ea.chunk.js": "/portfolioTP/static/js/2.0c31c5ea.chunk.js",
-    "static/js/2.0c31c5ea.chunk.js.map": "/portfolioTP/static/js/2.0c31c5ea.chunk.js.map",
-    "index.html": "/portfolioTP/index.html",
-    "precache-manifest.ad41731f3703dda92cd9f84f59907e8b.js": "/portfolioTP/precache-manifest.ad41731f3703dda92cd9f84f59907e8b.js",
-    "service-worker.js": "/portfolioTP/service-worker.js",
-    "static/css/main.7f329128.chunk.css.map": "/portfolioTP/static/css/main.7f329128.chunk.css.map",
-    "static/media/logo.svg": "/portfolioTP/static/media/logo.25bf045c.svg",
-    "static/media/moi circle.png": "/portfolioTP/static/media/moi circle.3d9fb151.png",
-    "static/media/moi.jpg": "/portfolioTP/static/media/moi.18d8165d.jpg",
-    "static/media/sounddumpreal.png": "/portfolioTP/static/media/sounddumpreal.9c01ee82.png",
-    "static/media/trivia1.png": "/portfolioTP/static/media/trivia1.b3985a86.png",
-    "static/media/yeetbeer.png": "/portfolioTP/static/media/yeetbeer.93f1659d.png"
+    "main.css": "/static/css/main.7f329128.chunk.css",
+    "main.js": "/static/js/main.5e6f9729.chunk.js",
+    "main.js.map": "/static/js/main.5e6f9729.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3d3cf7f1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3d3cf7f1.js.map",
+    "static/js/2.0c31c5ea.chunk.js": "/static/js/2.0c31c5ea.chunk.js",
+    "static/js/2.0c31c5ea.chunk.js.map": "/static/js/2.0c31c5ea.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8340012b6fee2596d0d158675968b4dd.js": "/precache-manifest.8340012b6fee2596d0d158675968b4dd.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.7f329128.chunk.css.map": "/static/css/main.7f329128.chunk.css.map",
+    "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
+    "static/media/moi circle.png": "/static/media/moi circle.3d9fb151.png",
+    "static/media/moi.jpg": "/static/media/moi.18d8165d.jpg",
+    "static/media/sounddumpreal.png": "/static/media/sounddumpreal.9c01ee82.png",
+    "static/media/trivia1.png": "/static/media/trivia1.b3985a86.png",
+    "static/media/yeetbeer.png": "/static/media/yeetbeer.93f1659d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c954b4f9.js",
+    "static/js/runtime-main.3d3cf7f1.js",
     "static/js/2.0c31c5ea.chunk.js",
     "static/css/main.7f329128.chunk.css",
-    "static/js/main.b8732b7e.chunk.js"
+    "static/js/main.5e6f9729.chunk.js"
   ]
 }
