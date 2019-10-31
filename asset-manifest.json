@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolioTP.git/static/css/main.7f329128.chunk.css",
-    "main.js": "/portfolioTP.git/static/js/main.19d6474d.chunk.js",
-    "main.js.map": "/portfolioTP.git/static/js/main.19d6474d.chunk.js.map",
-    "runtime-main.js": "/portfolioTP.git/static/js/runtime-main.6ae65df8.js",
-    "runtime-main.js.map": "/portfolioTP.git/static/js/runtime-main.6ae65df8.js.map",
-    "static/js/2.0c31c5ea.chunk.js": "/portfolioTP.git/static/js/2.0c31c5ea.chunk.js",
-    "static/js/2.0c31c5ea.chunk.js.map": "/portfolioTP.git/static/js/2.0c31c5ea.chunk.js.map",
-    "index.html": "/portfolioTP.git/index.html",
-    "precache-manifest.c89e81d26191132e1e1a6bca2f1fcd52.js": "/portfolioTP.git/precache-manifest.c89e81d26191132e1e1a6bca2f1fcd52.js",
-    "service-worker.js": "/portfolioTP.git/service-worker.js",
-    "static/css/main.7f329128.chunk.css.map": "/portfolioTP.git/static/css/main.7f329128.chunk.css.map",
-    "static/media/logo.svg": "/portfolioTP.git/static/media/logo.25bf045c.svg",
-    "static/media/moi circle.png": "/portfolioTP.git/static/media/moi circle.3d9fb151.png",
-    "static/media/moi.jpg": "/portfolioTP.git/static/media/moi.18d8165d.jpg",
-    "static/media/sounddumpreal.png": "/portfolioTP.git/static/media/sounddumpreal.9c01ee82.png",
-    "static/media/trivia1.png": "/portfolioTP.git/static/media/trivia1.b3985a86.png",
-    "static/media/yeetbeer.png": "/portfolioTP.git/static/media/yeetbeer.93f1659d.png"
+    "main.css": "/portfolioTP/static/css/main.7f329128.chunk.css",
+    "main.js": "/portfolioTP/static/js/main.b8732b7e.chunk.js",
+    "main.js.map": "/portfolioTP/static/js/main.b8732b7e.chunk.js.map",
+    "runtime-main.js": "/portfolioTP/static/js/runtime-main.c954b4f9.js",
+    "runtime-main.js.map": "/portfolioTP/static/js/runtime-main.c954b4f9.js.map",
+    "static/js/2.0c31c5ea.chunk.js": "/portfolioTP/static/js/2.0c31c5ea.chunk.js",
+    "static/js/2.0c31c5ea.chunk.js.map": "/portfolioTP/static/js/2.0c31c5ea.chunk.js.map",
+    "index.html": "/portfolioTP/index.html",
+    "precache-manifest.ad41731f3703dda92cd9f84f59907e8b.js": "/portfolioTP/precache-manifest.ad41731f3703dda92cd9f84f59907e8b.js",
+    "service-worker.js": "/portfolioTP/service-worker.js",
+    "static/css/main.7f329128.chunk.css.map": "/portfolioTP/static/css/main.7f329128.chunk.css.map",
+    "static/media/logo.svg": "/portfolioTP/static/media/logo.25bf045c.svg",
+    "static/media/moi circle.png": "/portfolioTP/static/media/moi circle.3d9fb151.png",
+    "static/media/moi.jpg": "/portfolioTP/static/media/moi.18d8165d.jpg",
+    "static/media/sounddumpreal.png": "/portfolioTP/static/media/sounddumpreal.9c01ee82.png",
+    "static/media/trivia1.png": "/portfolioTP/static/media/trivia1.b3985a86.png",
+    "static/media/yeetbeer.png": "/portfolioTP/static/media/yeetbeer.93f1659d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6ae65df8.js",
+    "static/js/runtime-main.c954b4f9.js",
     "static/js/2.0c31c5ea.chunk.js",
     "static/css/main.7f329128.chunk.css",
-    "static/js/main.19d6474d.chunk.js"
+    "static/js/main.b8732b7e.chunk.js"
   ]
 }
