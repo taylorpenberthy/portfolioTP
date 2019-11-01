@@ -1,6 +1,6 @@
 {
   "name": "floorplansite",
-  "homepage": "https://taylorpenberthy.github.io/portfolioTP",
+  "homepage": "https://taylorpenberthy.dev",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,12 +11,13 @@
     "react-transition-group": "^4.3.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
+    
   },
   "eslintConfig": {
     "extends": "react-app"
