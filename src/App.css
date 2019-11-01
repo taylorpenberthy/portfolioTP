@@ -85,13 +85,13 @@ nav {
 
 .projectCard {
   display: flex;
-  padding: 20px;
   margin: 10px;
   align-self: auto;
   width: 40%;
   flex-direction: row;
   flex-wrap: wrap;
   height: auto;
+  background-color: rgba(245, 230, 232, 0.6);
 }
 
 .projects {
@@ -109,7 +109,7 @@ nav {
 
 p {
   color: #F5E6E8;
-  text-align: left;
+  text-align: center;
   font-family: "Raleway", sans-serif;
 }
 
@@ -196,3 +196,20 @@ h5 {
   from { top: 0; } to { top: 660px; }
 } 
 
+.technologies {
+  text-align: center;
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center; 
+  justify-content: center;
+  align-items: center;
+}
+
+.tech {
+  width: 100px;
+  height: auto;
+  display: flex;
+}
