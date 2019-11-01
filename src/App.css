@@ -127,8 +127,8 @@ font-size: 80px;
 .songbox {
   margin-right: 20px;
   display: block;
-  float: left;
-  margin-top: 40%;
+  text-align: center;
+  margin-top: 5%;
   margin-bottom: 10%;
 }
 
@@ -138,18 +138,19 @@ h5 {
 }
 
 .propic {
-  float: right;
+  float: left;
   display: block;
-  width: 40%;
+  width: 25%;
   height: auto;
   border-radius: 56%;
+  margin: 20px;
 }
 
 .description {
-  text-align: right;
-  margin-left: 10px;;
-  margin-right: 50%;
+  text-align: left;
+  margin-left: 30%;
   line-height: 3;
+  margin-right: 10%;
 }
 
 .mover {
