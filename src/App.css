@@ -156,8 +156,9 @@ h5 {
   position: absolute;
   z-index: 0;
   animation: moveX 10.05s linear 0s infinite alternate, moveY 3.4s linear 0s infinite alternate; 
-  animation: animate 7s linear 0s infinite alternate; 
+  /* animation: animate 7s linear 0s infinite alternate;  */
    cursor: pointer;
+   z-index: 3;
 } 
 @keyframes animate {
   from {top: 100%;}
@@ -212,4 +213,16 @@ h5 {
   width: 100px;
   height: auto;
   display: flex;
+}
+
+
+
+.icons {
+  display: inline-block;
+  padding: 10px;
+  
+}
+
+.icons1{
+  text-align: center;
 }

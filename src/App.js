@@ -32,7 +32,10 @@ function App() {
       <Route exact path={process.env.PUBLIC_URL + "/about"}component={About}/>  
       </Switch>
     </main>
-    
+    <footer>
+      {/* <a href='http://linkedin.com/in/taylorpenberthy' className='icons'><img src='http://assets.stickpng.com/thumbs/58e91afdeb97430e81906504.png' className='icons'/></a>
+      <a href='http://github.com/taylorpenberthy' className='icons'><img src='https://icon-library.net/images/github-icon-png/github-icon-png-29.jpg' className='icons'/></a> */}
+    </footer>
     </div>
     
     
