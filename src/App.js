@@ -13,13 +13,13 @@ function App() {
   return (
     <div>
       <nav>
-        <Link to="/">
+        <Link to={process.env.PUBLIC_URL + "/"}>
           <h4>Home</h4>
         </Link>
-        <Link to ='/projects'>
+        <Link to ={process.env.PUBLIC_URL + '/projects'}>
           <h4>Projects</h4>
         </Link>
-        <Link to="/about">
+        <Link to={process.env.PUBLIC_URL + "/about"}>
           <h4>About</h4>
         </Link>
       </nav>
@@ -27,9 +27,9 @@ function App() {
     <main>
       
       <Switch>
-      <Route exact path="/" component={Floorplan}/>
-      <Route exact path="/projects" component={Projects}/> 
-      <Route exact path="/about" component={About}/>  
+      <Route exact path={process.env.PUBLIC_URL + '/'} component={Floorplan}/>
+      <Route exact path={process.env.PUBLIC_URL + "/projects"} component={Projects}/> 
+      <Route exact path={process.env.PUBLIC_URL + "/about"}component={About}/>  
       </Switch>
     </main>
     
