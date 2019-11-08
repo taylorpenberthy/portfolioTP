@@ -19,8 +19,8 @@ class Floorplan extends Component {
                
                 </div>
                 <div className='icons1'>
-                <a href='http://linkedin.com/in/taylorpenberthy' className='icons'><img src='http://assets.stickpng.com/thumbs/58e91afdeb97430e81906504.png' className='icons'/></a>
-      <a href='http://github.com/taylorpenberthy' className='icons'><img src='https://icon-library.net/images/github-icon-png/github-icon-png-29.jpg' className='icons'/></a></div>
+                <a href='http://linkedin.com/in/taylorpenberthy' className='icons'><i class="fab fa-linkedin fa-lg" style={{color: "#F5E6E8"}}></i></a>
+                <a href='http://github.com/taylorpenberthy' className='icons'><i class="fab fa-github fa-lg" style={{color: "#F5E6E8"}} size="10px"></i></a></div>
                 </div>
          
              )
