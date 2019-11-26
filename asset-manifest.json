@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.367666df.chunk.css",
-    "main.js": "/static/js/main.c4d268c9.chunk.js",
-    "main.js.map": "/static/js/main.c4d268c9.chunk.js.map",
+    "main.css": "/static/css/main.443a4d36.chunk.css",
+    "main.js": "/static/js/main.baed572f.chunk.js",
+    "main.js.map": "/static/js/main.baed572f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3d3cf7f1.js",
     "runtime-main.js.map": "/static/js/runtime-main.3d3cf7f1.js.map",
-    "static/js/2.0c31c5ea.chunk.js": "/static/js/2.0c31c5ea.chunk.js",
-    "static/js/2.0c31c5ea.chunk.js.map": "/static/js/2.0c31c5ea.chunk.js.map",
+    "static/js/2.233949f4.chunk.js": "/static/js/2.233949f4.chunk.js",
+    "static/js/2.233949f4.chunk.js.map": "/static/js/2.233949f4.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c7f67f71162e5f07dff42c12c5e7d49f.js": "/precache-manifest.c7f67f71162e5f07dff42c12c5e7d49f.js",
+    "precache-manifest.671ba79f516709a0f9da23ef6bb6122a.js": "/precache-manifest.671ba79f516709a0f9da23ef6bb6122a.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.367666df.chunk.css.map": "/static/css/main.367666df.chunk.css.map",
+    "static/css/main.443a4d36.chunk.css.map": "/static/css/main.443a4d36.chunk.css.map",
     "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
     "static/media/moi circle.png": "/static/media/moi circle.3d9fb151.png",
     "static/media/moi.jpg": "/static/media/moi.18d8165d.jpg",
-    "static/media/sounddumpreal.png": "/static/media/sounddumpreal.9c01ee82.png",
-    "static/media/trivia1.png": "/static/media/trivia1.b3985a86.png",
-    "static/media/yeetbeer.png": "/static/media/yeetbeer.93f1659d.png"
+    "static/media/sounddumpmobile.png": "/static/media/sounddumpmobile.c3c47fbc.png",
+    "static/media/sounddumpreal_macbookgold_front.png": "/static/media/sounddumpreal_macbookgold_front.62474882.png",
+    "static/media/trivia1_macbookgold_front.png": "/static/media/trivia1_macbookgold_front.d3b296c5.png",
+    "static/media/yeetbeer_macbookgold_front.png": "/static/media/yeetbeer_macbookgold_front.88895e42.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3d3cf7f1.js",
-    "static/js/2.0c31c5ea.chunk.js",
-    "static/css/main.367666df.chunk.css",
-    "static/js/main.c4d268c9.chunk.js"
+    "static/js/2.233949f4.chunk.js",
+    "static/css/main.443a4d36.chunk.css",
+    "static/js/main.baed572f.chunk.js"
   ]
 }
